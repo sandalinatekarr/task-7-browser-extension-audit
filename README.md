@@ -75,4 +75,4 @@ To understand how to identify potentially harmful browser extensions, review the
 ---
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](browser_extension.png)
